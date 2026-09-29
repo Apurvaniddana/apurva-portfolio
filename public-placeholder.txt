@@ -1,0 +1,1 @@
+Add your real resume as public/resume.pdf. The website currently uses /resume.pdf for download buttons.
